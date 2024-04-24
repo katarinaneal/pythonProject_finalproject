@@ -1,3 +1,4 @@
+#added board
 import pygame
 import random
 
